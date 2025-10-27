@@ -1,4 +1,4 @@
-# 05_Market_and_Adoption_Potential  
+# 05 Market and Adoption Potential  
 *Market Analysis and Adoption Potential for MegaETH*  
 *MegaETH 市場分析與採用潛力*
 
