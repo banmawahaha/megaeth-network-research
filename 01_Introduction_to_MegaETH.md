@@ -1,4 +1,4 @@
-# 01_Introduction_to_MegaETH  
+# 01 Introduction to MegaETH  
 *Introduction to MegaETH network and its core value proposition*  
 *MegaETH 網絡簡介及核心價值*
 
