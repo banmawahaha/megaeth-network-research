@@ -1,4 +1,4 @@
-# 02_Network_Architecture_and_Innovation  
+# 02 Network Architecture and Innovation  
 *MegaETH Network Architecture and Key Innovations*  
 *MegaETH 網絡架構與核心創新*
 
