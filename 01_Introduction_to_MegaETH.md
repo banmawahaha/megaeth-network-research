@@ -36,11 +36,3 @@ MegaETH 是新一代以太坊 Layer2 解決方案，旨在提升可擴展性、�
   區塊鏈基建運營者與驗證者
 - DeFi and NFT projects aiming to scale without high fees  
   需要擴展而又想降低成本的 DeFi 與 NFT 項目
-
-## Next Steps in Research | 下一步研究
-1. Deploy a test wallet on MegaETH testnet  
-   在 MegaETH 測試網建立測試錢包
-2. Conduct real transaction tests and measure latency/TPS  
-   進行真實交易測試，測量延遲與 TPS
-3. Update `03_Performance_Test_and_Transaction_Analysis.md` with results  
-   將結果更新到 `03_Performance_Test_and_Transaction_Analysis.md`
